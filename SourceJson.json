@@ -1,0 +1,62 @@
+{
+    "firstName": "John",
+    "lastName": "doe",
+    "age": 26,
+    "address": {
+        "streetAddress": "Road No. 27, Alkapoor Township",
+        "city": "Hyderabad",
+        "postalCode": "500089",
+        "phone":{ "Model":"iphone", "number":123456789}
+    },
+    "AoA":[
+      [{"q":1}],
+      [{"p":true}]
+    ],
+    "NestedObj":{
+        "ComplxNestedType":[
+            {"CmplxNestedArray":[{"a":1, "b":true},{"a":3, "b":true}]},   
+            {"CmplxNestedArray":[{"a":2, "b":false},{"a":4, "b":true}]}
+          ]
+    },
+    "family": [
+        {
+            "Id":1,
+            "boolean":true,
+            "type": "iPhone",
+            "number": "0123-4567-8888",
+            "SampleArray":[{"num":1, "letter":"A"},{"num":2, "letter":"B"},{"num":3, "letter":"C"}],
+            "SampleObj":{
+                            "SampleArrayNested":[{"elem":111, "bool":true},{"elem":222, "bool":true}],
+                            "ComplxType":[{
+                                            "TestArray":[{"x":1, "y":true},{"x":2, "y":true}]
+                                          },
+                                          {
+                                            "NestedArray":[{"a":1, "b":true},{"a":3, "b":true}]
+                                          },
+                                          {
+                                            "NestedArray":[{"a":11, "b":true},{"a":33, "b":true},{"a":77, "b":true}]
+                                          }]
+                        }
+            
+        },
+        {
+            "Id":2,
+            "boolean":false,
+            "type": "home",
+            "number": "0123-4567-8910", 
+            "SampleArray":[{"num":4, "letter":"D"},{"num":5, "letter":"E"},{"num":6, "letter":"F"}],
+            "SampleObj":{
+                            "SampleArrayNested":[{"elem":444, "bool":false},{"elem":555, "bool":false},{"elem":666, "bool":false}],
+                            "ComplxType":[{
+                                            "TestArray":[{"x":3, "y":true},{"x":4, "y":true}]
+                                          },
+                                          {
+                                            "NestedArray":[{"a":2, "b":false},{"a":4, "b":false}]
+                                          },
+                                          {
+                                            "NestedArray":[{"a":22, "b":true},{"a":44, "b":true},{"a":99, "b":true}]
+                                          }]
+                        }
+        }
+    ]
+}

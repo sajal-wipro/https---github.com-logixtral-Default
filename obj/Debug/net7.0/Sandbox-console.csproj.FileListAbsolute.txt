@@ -1,0 +1,57 @@
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.deps.json
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.runtimeconfig.json
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.dll
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.pdb
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Namotion.Reflection.dll
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/bin/Debug/net7.0/NJsonSchema.dll
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.AssemblyReference.cache
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.AssemblyInfoInputs.cache
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.AssemblyInfo.cs
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.CoreCompileInputs.cache
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.CopyComplete
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.dll
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/refint/Sandbox-console.dll
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.pdb
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.genruntimeconfig.cache
+/Users/sajal/Developer/Sandbox/CSharpConsole/Sandbox-console/obj/Debug/net7.0/ref/Sandbox-console.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.exe
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.deps.json
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.runtimeconfig.json
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.pdb
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Namotion.Reflection.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/NJsonSchema.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.AssemblyReference.cache
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.AssemblyInfoInputs.cache
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.AssemblyInfo.cs
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.CoreCompileInputs.cache
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.CopyComplete
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/refint/Sandbox-console.dll
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.pdb
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.genruntimeconfig.cache
+C:/Users/wiprodev/Downloads/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/ref/Sandbox-console.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.deps.json
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.runtimeconfig.json
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Sandbox-console.pdb
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Namotion.Reflection.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/bin/Debug/net7.0/NJsonSchema.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.AssemblyReference.cache
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.AssemblyInfoInputs.cache
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.AssemblyInfo.cs
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.CoreCompileInputs.cache
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.csproj.CopyComplete
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/refint/Sandbox-console.dll
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.pdb
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/Sandbox-console.genruntimeconfig.cache
+/Volumes/Macbook SD/dev/CSharpConsole/CSharpConsole/Sandbox-console/obj/Debug/net7.0/ref/Sandbox-console.dll
