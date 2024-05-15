@@ -96,14 +96,20 @@ public static class JsonDomExtentions
             }
             else
             {
-                if (currentElement.TryGetProperty(jsonPath, out var nextElement))
+                if(!currentElement.ValueKind.Equals(JsonValueKind.Object))
                 {
-                    currentElement = (new JsonObject
-                    {
-                        [jsonPath] = nextElement.ToJsonString().FromJsonString<JsonNode>()
-                    }).ToJsonString().FromJsonString<JsonElement>();
+                    currentElement.Add(jsonPath, JsonValue.Create(sJsonVal); 
                 }
-
+                else
+                {
+                    if (currentElement.TryGetProperty(jsonPath, out var nextElement))
+                    {
+                        currentElement = (new JsonObject
+                        {
+                            [jsonPath] = nextElement.ToJsonString().FromJsonString<JsonNode>()
+                        }).ToJsonString().FromJsonString<JsonElement>();
+                    }
+                }
             }
         }
         outNode = currentElement;

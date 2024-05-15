@@ -11,13 +11,13 @@ internal class Program
         var res = ((JsonObject)sourceJson!).ToString().ToString().ExtractJsonFromPath(
             //"$.family.SampleObj.ComplxType.TestArray.x"
             //"$.NestedObj.ComplxNestedType.CmplxNestedArray.a"
-            "$.family.SampleObj.ComplxType.NestedArray.a"
+            //"$.family.SampleObj.ComplxType.NestedArray.a"
             //"$.family.SampleObj.SampleArrayNested.elem"
             //"$.family.SampleObj.SampleArrayNested.bool"
             //"$.family.SampleArray.num"
             //"$.family.SampleArray.letter"
             //"$.address.phone.Model"
-            //"$.age"    
+            "$.age"    
             //"$.family.number"
             //"$.family.boolean"
             //"$.firstName"
@@ -27,7 +27,11 @@ internal class Program
         Console.WriteLine(JsonNode.Parse(test.ToJsonString()).GenerateTargetJson(targetJson,
         //"$.address.phone.number"
         //"$.address.phone.Model"
-        "$.family[].SampleObj.ComplxType[].NestedArray[].a"
+        //"$.family[].SampleObj.ComplxType[].NestedArray[].a"
+        //"$.NestedObj.ComplxNestedArrType[].CmplxNestedArray[].a"
+        //"$.family[].SampleObj.SampleArrayNested[].elem"
+        //"$.address.phone.Model"
+        "$.age"
         , true));
         Console.WriteLine(targetJson);
     }
