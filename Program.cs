@@ -17,6 +17,7 @@ internal class Program
             //"$.family.SampleArray.num"
             //"$.family.SampleArray.letter"
             //"$.address.phone.Model"
+            //"$.address.phone.number"
             "$.age"    
             //"$.family.number"
             //"$.family.boolean"
@@ -32,6 +33,8 @@ internal class Program
         //"$.family[].SampleObj.SampleArrayNested[].elem"
         //"$.address.phone.Model"
         "$.age"
+        //"$.family[].number"
+         //"$.family[].boolean"
         , true));
         Console.WriteLine(targetJson);
     }

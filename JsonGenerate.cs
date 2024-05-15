@@ -20,7 +20,7 @@ public static class JsonDomExtentions
         //[{"q":1}],
         //[{"p":true}]
         string jsonPath = string.Empty;
-        var options = new JsonSerializerOptions(JsonSerializerDefaults.Web);
+        //var options = new JsonSerializerOptions(JsonSerializerDefaults.Web);
         bool Isnodefound = false;
         outNode = null;
         if (String.IsNullOrEmpty(sourceJsonObjectString) || String.IsNullOrEmpty(sourceJsonPath)) return Isnodefound;
@@ -98,7 +98,10 @@ public static class JsonDomExtentions
             {
                 if(!currentElement.ValueKind.Equals(JsonValueKind.Object))
                 {
-                    currentElement.Add(jsonPath, JsonValue.Create(sJsonVal); 
+                    currentElement = (new JsonObject
+                        {
+                            [jsonPath] = currentElement.ToJsonString().FromJsonString<JsonNode>()
+                        }).ToJsonString().FromJsonString<JsonElement>();
                 }
                 else
                 {
@@ -175,7 +178,7 @@ public static class JsonDomExtentions
                     {
                         object sJsonVal = elem!.ToJsonString().FromJsonString<JsonElement>().GetProperty(jPath);// handle case sensitive property names
                         if (nestedElem!.GetType().Equals(typeof(System.Text.Json.Nodes.JsonArray)))
-                            ((JsonArray)nestedElem!).Add(new JsonObject{[jPart]=elem[jPath]!.ToJsonString()});
+                            ((JsonArray)nestedElem!).Add(new JsonObject{[jPart]=JsonValue.Create(elem[jPath]!.GetValue<object>())!});
                         else
                             ((JsonObject)nestedElem!).Add(jPath, JsonValue.Create(sJsonVal));
                     }
